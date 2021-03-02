@@ -1,0 +1,5 @@
+a = int(4)
+b = int(2)
+c = int(2)
+z = int(str(a) + str(b) + str(c))
+print(z)
